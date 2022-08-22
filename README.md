@@ -1,0 +1,2 @@
+# Predicting Bike Sharing Patterns
+This was my first neural network project from the Udacity Deep Learning course in which I built a NN from scratch using numpy to predict the number of people who would rent a bike on a given day.
